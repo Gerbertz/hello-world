@@ -1,3 +1,3 @@
 # hello-world
-Just testing
+
 First we just wanted to drink a few beers and now we ended up like this...
